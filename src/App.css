@@ -1,0 +1,10 @@
+#root {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+}
+.App {
+    max-width: 1400px;
+    width: 100%;
+}
